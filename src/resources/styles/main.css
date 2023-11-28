@@ -1,0 +1,14 @@
+.Button {
+  padding: 4px;
+}
+
+.Form {
+  padding: 5%;
+  background-color: #fff;
+}
+.Form .button-row {
+  padding: 40px;
+  border: 1px solid #ccc;
+}
+
+/*# sourceMappingURL=main.css.map */
